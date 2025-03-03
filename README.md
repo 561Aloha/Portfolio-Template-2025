@@ -5,6 +5,7 @@ After cloning you would need to type in the following commands to your terminal.
 npm install 
 npm install react-router-dom
 
-View this link to view the code explainations
+View this link to view the code explanations:
 https://www.notion.so/Getting-Started-Portfolio-Template-1a7b3b923c3e801bac20c41f38df794c
+
 
